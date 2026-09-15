@@ -6,6 +6,8 @@ import {
 } from "@/lib/productCatalog";
 import { describeAssistantError } from "@/lib/apiErrors";
 
+export const maxDuration = 30;
+
 export async function POST(request) {
   try {
     const body = await request.json();

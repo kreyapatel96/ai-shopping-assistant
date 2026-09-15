@@ -38,7 +38,17 @@ export default function DocumentUploadPanel({ onDocumentsChanged }) {
     formData.append("file", file);
 
     const res = await fetch("/api/documents", { method: "POST", body: formData });
-    const data = await res.json();
+
+    let data;
+    try {
+      data = await res.json();
+    } catch {
+      throw new Error(
+        res.status === 504 || res.status === 0
+          ? "The upload took too long and timed out. Try a smaller file, or fewer pages."
+          : "The server didn't return a valid response. Please try again."
+      );
+    }
 
     if (!res.ok || !data.success) {
       throw new Error(data.message || "Upload failed");

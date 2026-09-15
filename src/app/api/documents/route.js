@@ -10,6 +10,10 @@ import { isSupportedFile, parseDocument } from "@/lib/documentParser";
 import { embedTexts } from "@/lib/embeddings";
 import { describeAssistantError } from "@/lib/apiErrors";
 
+// Parsing + chunking + embedding a document can take longer than the
+// platform's default serverless timeout (e.g. Vercel's 10s default).
+export const maxDuration = 60;
+
 export async function GET() {
   try {
     const documents = await listDocuments();

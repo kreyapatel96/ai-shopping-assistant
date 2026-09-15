@@ -2,6 +2,8 @@ import { generateRagAnswer } from "@/lib/gemini";
 import { retrieveRelevantChunks } from "@/lib/retrieval";
 import { describeAssistantError } from "@/lib/apiErrors";
 
+export const maxDuration = 30;
+
 function formatContext(chunks) {
   return chunks
     .map(

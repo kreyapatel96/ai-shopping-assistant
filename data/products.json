@@ -1,0 +1,910 @@
+[
+  {
+    "name": "JBL Pro Headphones",
+    "brand": "JBL",
+    "category": "Headphones",
+    "price": 4999,
+    "description": "Wireless headphones with clear audio and comfortable fit.",
+    "features": ["ANC", "Bluetooth", "Long battery"],
+    "rating": 4.5,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Sony Plus Headphones",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 7999,
+    "description": "Premium wireless headphones for everyday listening.",
+    "features": ["ANC", "Bluetooth 5.3", "30-hour battery"],
+    "rating": 4.6,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Bose Max Headphones",
+    "brand": "Bose",
+    "category": "Headphones",
+    "price": 24999,
+    "description": "Premium headphones with immersive sound and noise cancellation.",
+    "features": ["ANC", "Bluetooth", "Premium audio"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Sennheiser Ultra Headphones",
+    "brand": "Sennheiser",
+    "category": "Headphones",
+    "price": 18999,
+    "description": "High-quality wireless headphones for music lovers.",
+    "features": ["ANC", "Bluetooth", "High fidelity"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "JBL Elite Headphones",
+    "brand": "JBL",
+    "category": "Headphones",
+    "price": 6499,
+    "description": "Comfortable wireless headphones with powerful bass.",
+    "features": ["Bass boost", "Bluetooth", "Fast charging"],
+    "rating": 4.4,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Sony Air Headphones",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 12999,
+    "description": "Lightweight headphones designed for all-day listening.",
+    "features": ["ANC", "Bluetooth", "Lightweight"],
+    "rating": 4.6,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Bose Prime Headphones",
+    "brand": "Bose",
+    "category": "Headphones",
+    "price": 21999,
+    "description": "Premium headphones with excellent noise isolation.",
+    "features": ["ANC", "Bluetooth", "Premium comfort"],
+    "rating": 4.8,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Sennheiser Studio Headphones",
+    "brand": "Sennheiser",
+    "category": "Headphones",
+    "price": 15999,
+    "description": "Studio-style headphones with detailed sound.",
+    "features": ["Studio audio", "Bluetooth", "Comfort padding"],
+    "rating": 4.7,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "JBL Flex Headphones",
+    "brand": "JBL",
+    "category": "Headphones",
+    "price": 3999,
+    "description": "Affordable wireless headphones for everyday use.",
+    "features": ["Bluetooth", "Foldable", "Fast charging"],
+    "rating": 4.3,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Sony Pro Max Headphones",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 29999,
+    "description": "Flagship wireless headphones with advanced noise cancellation.",
+    "features": ["Advanced ANC", "Bluetooth 5.3", "40-hour battery"],
+    "rating": 4.9,
+    "image": "/products/product-1.jpg"
+  },
+
+  {
+    "name": "Apple Pro Buds",
+    "brand": "Apple",
+    "category": "Earbuds",
+    "price": 19999,
+    "description": "Premium wireless earbuds with excellent sound quality.",
+    "features": ["ANC", "Spatial audio", "Wireless charging"],
+    "rating": 4.8,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Samsung Plus Buds",
+    "brand": "Samsung",
+    "category": "Earbuds",
+    "price": 8999,
+    "description": "Compact earbuds with clear audio and comfortable fit.",
+    "features": ["ANC", "Bluetooth", "Touch controls"],
+    "rating": 4.5,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "JBL Max Buds",
+    "brand": "JBL",
+    "category": "Earbuds",
+    "price": 4999,
+    "description": "Wireless earbuds with powerful bass and long battery life.",
+    "features": ["Bass boost", "Bluetooth", "Charging case"],
+    "rating": 4.4,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Boat Ultra Buds",
+    "brand": "Boat",
+    "category": "Earbuds",
+    "price": 2499,
+    "description": "Affordable wireless earbuds for everyday listening.",
+    "features": ["Bluetooth", "Touch controls", "Low latency"],
+    "rating": 4.2,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Apple Air Buds",
+    "brand": "Apple",
+    "category": "Earbuds",
+    "price": 12999,
+    "description": "Lightweight earbuds with seamless device connectivity.",
+    "features": ["Spatial audio", "Bluetooth", "Voice assistant"],
+    "rating": 4.6,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Samsung Elite Buds",
+    "brand": "Samsung",
+    "category": "Earbuds",
+    "price": 10999,
+    "description": "Premium earbuds with immersive sound.",
+    "features": ["ANC", "360 audio", "Water resistant"],
+    "rating": 4.6,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "JBL Prime Buds",
+    "brand": "JBL",
+    "category": "Earbuds",
+    "price": 3499,
+    "description": "Everyday earbuds with balanced sound.",
+    "features": ["Bluetooth", "Fast charging", "Bass boost"],
+    "rating": 4.3,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Boat Air Buds",
+    "brand": "Boat",
+    "category": "Earbuds",
+    "price": 1999,
+    "description": "Compact earbuds designed for everyday use.",
+    "features": ["Bluetooth", "Low latency", "Touch controls"],
+    "rating": 4.1,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Apple Max Buds",
+    "brand": "Apple",
+    "category": "Earbuds",
+    "price": 22999,
+    "description": "Premium earbuds with advanced audio features.",
+    "features": ["ANC", "Spatial audio", "Wireless charging"],
+    "rating": 4.8,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Samsung Pro Buds",
+    "brand": "Samsung",
+    "category": "Earbuds",
+    "price": 7999,
+    "description": "Comfortable earbuds with rich audio and clear calls.",
+    "features": ["ANC", "Bluetooth", "Clear calls"],
+    "rating": 4.5,
+    "image": "/products/product-2.jpg"
+  },
+
+  {
+    "name": "Apple Pro Laptop",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 99999,
+    "description": "Powerful laptop designed for productivity and creative work.",
+    "features": ["SSD", "Retina display", "Wi-Fi 6"],
+    "rating": 4.9,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Dell Plus Laptop",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 69999,
+    "description": "Reliable laptop for work, study, and entertainment.",
+    "features": ["SSD", "Full HD display", "Wi-Fi 6"],
+    "rating": 4.5,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "HP Max Laptop",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 59999,
+    "description": "Modern laptop with strong performance and premium design.",
+    "features": ["SSD", "Full HD display", "Fast charging"],
+    "rating": 4.4,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Lenovo Ultra Laptop",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 74999,
+    "description": "Versatile laptop for productivity and everyday computing.",
+    "features": ["SSD", "Full HD display", "Backlit keyboard"],
+    "rating": 4.6,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Apple Air Laptop",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 89999,
+    "description": "Thin and lightweight laptop with excellent battery life.",
+    "features": ["SSD", "Retina display", "Long battery"],
+    "rating": 4.8,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Dell Elite Laptop",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 84999,
+    "description": "Premium business laptop with powerful performance.",
+    "features": ["SSD", "Full HD display", "Fingerprint reader"],
+    "rating": 4.6,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "HP Prime Laptop",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 49999,
+    "description": "Affordable laptop for work and study.",
+    "features": ["SSD", "Full HD display", "Wi-Fi"],
+    "rating": 4.3,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Lenovo Studio Laptop",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 79999,
+    "description": "Performance laptop for creators and professionals.",
+    "features": ["SSD", "High resolution display", "Backlit keyboard"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Apple Max Laptop",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 149999,
+    "description": "High-performance laptop for demanding professional workloads.",
+    "features": ["Large SSD", "High resolution display", "Long battery"],
+    "rating": 4.9,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Dell Flex Laptop",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 64999,
+    "description": "Flexible laptop designed for work and entertainment.",
+    "features": ["SSD", "Touch display", "Wi-Fi 6"],
+    "rating": 4.5,
+    "image": "/products/product-3.jpg"
+  },
+
+  {
+    "name": "Apple Pro Phone",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 79999,
+    "description": "Premium smartphone with powerful performance and advanced cameras.",
+    "features": ["5G", "Fast charging", "High-resolution camera"],
+    "rating": 4.8,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Samsung Plus Phone",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 59999,
+    "description": "Feature-rich smartphone with a bright display and excellent camera.",
+    "features": ["5G", "AMOLED display", "Fast charging"],
+    "rating": 4.7,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "OnePlus Max Phone",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 44999,
+    "description": "Fast smartphone with smooth performance and rapid charging.",
+    "features": ["5G", "120Hz display", "Fast charging"],
+    "rating": 4.6,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Google Ultra Phone",
+    "brand": "Google",
+    "category": "Smartphones",
+    "price": 69999,
+    "description": "Smartphone with advanced photography and clean software experience.",
+    "features": ["5G", "AI camera", "OLED display"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Apple Air Phone",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 64999,
+    "description": "Slim smartphone with excellent performance and battery life.",
+    "features": ["5G", "OLED display", "Fast charging"],
+    "rating": 4.6,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Samsung Elite Phone",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 89999,
+    "description": "Premium smartphone with advanced camera and display technology.",
+    "features": ["5G", "AMOLED display", "Wireless charging"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "OnePlus Prime Phone",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 29999,
+    "description": "Affordable performance smartphone with a smooth display.",
+    "features": ["5G", "120Hz display", "Fast charging"],
+    "rating": 4.5,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Google Studio Phone",
+    "brand": "Google",
+    "category": "Smartphones",
+    "price": 54999,
+    "description": "Smartphone with excellent camera processing and performance.",
+    "features": ["5G", "AI camera", "Wireless charging"],
+    "rating": 4.6,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Apple Max Phone",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 119999,
+    "description": "Large premium smartphone built for performance and entertainment.",
+    "features": ["5G", "Large display", "Pro camera"],
+    "rating": 4.9,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Samsung Flex Phone",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 74999,
+    "description": "Modern smartphone with flexible design and premium features.",
+    "features": ["5G", "AMOLED display", "Fast charging"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+
+  {
+    "name": "Apple Pro Watch",
+    "brand": "Apple",
+    "category": "Smartwatches",
+    "price": 49999,
+    "description": "Smartwatch with fitness tracking and advanced health features.",
+    "features": ["GPS", "Heart-rate tracking", "Notifications"],
+    "rating": 4.8,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Samsung Plus Watch",
+    "brand": "Samsung",
+    "category": "Smartwatches",
+    "price": 29999,
+    "description": "Premium smartwatch with fitness and smart features.",
+    "features": ["GPS", "Heart-rate tracking", "AMOLED display"],
+    "rating": 4.6,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Garmin Max Watch",
+    "brand": "Garmin",
+    "category": "Smartwatches",
+    "price": 39999,
+    "description": "Fitness-focused smartwatch for active lifestyles.",
+    "features": ["GPS", "Fitness tracking", "Long battery"],
+    "rating": 4.8,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Amazfit Ultra Watch",
+    "brand": "Amazfit",
+    "category": "Smartwatches",
+    "price": 12999,
+    "description": "Feature-rich smartwatch with long battery life.",
+    "features": ["GPS", "Fitness tracking", "Long battery"],
+    "rating": 4.5,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Apple Air Watch",
+    "brand": "Apple",
+    "category": "Smartwatches",
+    "price": 29999,
+    "description": "Lightweight smartwatch for everyday fitness and notifications.",
+    "features": ["GPS", "Heart-rate tracking", "Water resistant"],
+    "rating": 4.7,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Samsung Elite Watch",
+    "brand": "Samsung",
+    "category": "Smartwatches",
+    "price": 34999,
+    "description": "Premium smartwatch with advanced fitness features.",
+    "features": ["GPS", "Sleep tracking", "AMOLED display"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Garmin Prime Watch",
+    "brand": "Garmin",
+    "category": "Smartwatches",
+    "price": 44999,
+    "description": "Advanced fitness watch designed for athletes.",
+    "features": ["GPS", "Training metrics", "Long battery"],
+    "rating": 4.9,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Amazfit Studio Watch",
+    "brand": "Amazfit",
+    "category": "Smartwatches",
+    "price": 8999,
+    "description": "Affordable smartwatch with useful fitness features.",
+    "features": ["GPS", "Sleep tracking", "Notifications"],
+    "rating": 4.4,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Apple Max Watch",
+    "brand": "Apple",
+    "category": "Smartwatches",
+    "price": 59999,
+    "description": "Premium smartwatch with advanced health and fitness tracking.",
+    "features": ["GPS", "Advanced health tracking", "Water resistant"],
+    "rating": 4.9,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Samsung Flex Watch",
+    "brand": "Samsung",
+    "category": "Smartwatches",
+    "price": 24999,
+    "description": "Stylish smartwatch designed for everyday use.",
+    "features": ["GPS", "Sleep tracking", "Notifications"],
+    "rating": 4.5,
+    "image": "/products/product-2.jpg"
+  },
+
+  {
+    "name": "LG Pro Monitor",
+    "brand": "LG",
+    "category": "Monitors",
+    "price": 18999,
+    "description": "Sharp monitor designed for work and entertainment.",
+    "features": ["Full HD", "HDMI", "Eye comfort"],
+    "rating": 4.5,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Dell Plus Monitor",
+    "brand": "Dell",
+    "category": "Monitors",
+    "price": 22999,
+    "description": "Professional monitor with accurate colors and ergonomic design.",
+    "features": ["QHD", "HDMI", "Adjustable stand"],
+    "rating": 4.6,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Samsung Max Monitor",
+    "brand": "Samsung",
+    "category": "Monitors",
+    "price": 27999,
+    "description": "Immersive monitor with vibrant colors and smooth performance.",
+    "features": ["4K", "HDR", "HDMI"],
+    "rating": 4.7,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "ASUS Ultra Monitor",
+    "brand": "ASUS",
+    "category": "Monitors",
+    "price": 31999,
+    "description": "Gaming-ready monitor with smooth visuals.",
+    "features": ["144Hz", "HDR", "DisplayPort"],
+    "rating": 4.7,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "LG Elite Monitor",
+    "brand": "LG",
+    "category": "Monitors",
+    "price": 14999,
+    "description": "Affordable monitor for office and home use.",
+    "features": ["Full HD", "HDMI", "Eye comfort"],
+    "rating": 4.3,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Dell Prime Monitor",
+    "brand": "Dell",
+    "category": "Monitors",
+    "price": 19999,
+    "description": "Reliable monitor for productivity and entertainment.",
+    "features": ["Full HD", "HDMI", "Adjustable stand"],
+    "rating": 4.5,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Samsung Studio Monitor",
+    "brand": "Samsung",
+    "category": "Monitors",
+    "price": 34999,
+    "description": "Large high-resolution monitor for creative work.",
+    "features": ["4K", "HDR", "USB-C"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "ASUS Air Monitor",
+    "brand": "ASUS",
+    "category": "Monitors",
+    "price": 16999,
+    "description": "Slim monitor with smooth visuals for everyday use.",
+    "features": ["Full HD", "75Hz", "HDMI"],
+    "rating": 4.4,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "LG Pro Max Monitor",
+    "brand": "LG",
+    "category": "Monitors",
+    "price": 45999,
+    "description": "Premium monitor with high resolution and excellent color quality.",
+    "features": ["4K", "HDR", "USB-C"],
+    "rating": 4.8,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Dell Flex Monitor",
+    "brand": "Dell",
+    "category": "Monitors",
+    "price": 25999,
+    "description": "Flexible monitor designed for productivity and multitasking.",
+    "features": ["QHD", "USB-C", "Adjustable stand"],
+    "rating": 4.6,
+    "image": "/products/product-3.jpg"
+  },
+
+  {
+    "name": "Logitech Pro Keyboard",
+    "brand": "Logitech",
+    "category": "Keyboards",
+    "price": 6999,
+    "description": "Responsive keyboard designed for productivity and gaming.",
+    "features": ["Backlit", "Wireless", "Mechanical"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Keychron Plus Keyboard",
+    "brand": "Keychron",
+    "category": "Keyboards",
+    "price": 8999,
+    "description": "Mechanical keyboard with comfortable keys and premium build.",
+    "features": ["Mechanical", "Bluetooth", "Backlit"],
+    "rating": 4.8,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Razer Max Keyboard",
+    "brand": "Razer",
+    "category": "Keyboards",
+    "price": 10999,
+    "description": "Gaming keyboard designed for fast and responsive controls.",
+    "features": ["RGB", "Mechanical", "Gaming mode"],
+    "rating": 4.7,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Corsair Ultra Keyboard",
+    "brand": "Corsair",
+    "category": "Keyboards",
+    "price": 12999,
+    "description": "Premium mechanical keyboard for gaming and productivity.",
+    "features": ["RGB", "Mechanical", "Macro keys"],
+    "rating": 4.8,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Logitech Elite Keyboard",
+    "brand": "Logitech",
+    "category": "Keyboards",
+    "price": 4999,
+    "description": "Comfortable wireless keyboard for everyday work.",
+    "features": ["Wireless", "Backlit", "Quiet keys"],
+    "rating": 4.5,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Keychron Prime Keyboard",
+    "brand": "Keychron",
+    "category": "Keyboards",
+    "price": 7499,
+    "description": "Compact mechanical keyboard for modern workspaces.",
+    "features": ["Mechanical", "Bluetooth", "Compact"],
+    "rating": 4.6,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Razer Studio Keyboard",
+    "brand": "Razer",
+    "category": "Keyboards",
+    "price": 8999,
+    "description": "Gaming keyboard with responsive mechanical switches.",
+    "features": ["RGB", "Mechanical", "Programmable"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Corsair Air Keyboard",
+    "brand": "Corsair",
+    "category": "Keyboards",
+    "price": 5999,
+    "description": "Lightweight wireless keyboard for gaming and work.",
+    "features": ["Wireless", "Backlit", "Low latency"],
+    "rating": 4.5,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Logitech Max Keyboard",
+    "brand": "Logitech",
+    "category": "Keyboards",
+    "price": 14999,
+    "description": "Premium keyboard with advanced wireless connectivity.",
+    "features": ["Wireless", "Mechanical", "Multi-device"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Keychron Flex Keyboard",
+    "brand": "Keychron",
+    "category": "Keyboards",
+    "price": 6499,
+    "description": "Flexible mechanical keyboard for everyday productivity.",
+    "features": ["Mechanical", "Bluetooth", "Hot-swappable"],
+    "rating": 4.6,
+    "image": "/products/product-1.jpg"
+  },
+
+  {
+    "name": "Logitech Pro Mouse",
+    "brand": "Logitech",
+    "category": "Mice",
+    "price": 3999,
+    "description": "Ergonomic wireless mouse with precise tracking.",
+    "features": ["Wireless", "Adjustable DPI", "Ergonomic"],
+    "rating": 4.7,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Razer Plus Mouse",
+    "brand": "Razer",
+    "category": "Mice",
+    "price": 5999,
+    "description": "High-performance gaming mouse with responsive tracking.",
+    "features": ["Wireless", "High DPI", "RGB"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "HP Max Mouse",
+    "brand": "HP",
+    "category": "Mice",
+    "price": 1499,
+    "description": "Comfortable wireless mouse for everyday computing.",
+    "features": ["Wireless", "Adjustable DPI", "Ergonomic"],
+    "rating": 4.3,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Dell Ultra Mouse",
+    "brand": "Dell",
+    "category": "Mice",
+    "price": 2499,
+    "description": "Reliable wireless mouse designed for office productivity.",
+    "features": ["Wireless", "Silent clicks", "Ergonomic"],
+    "rating": 4.5,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Logitech Elite Mouse",
+    "brand": "Logitech",
+    "category": "Mice",
+    "price": 6999,
+    "description": "Premium mouse with precise tracking and multi-device support.",
+    "features": ["Wireless", "High DPI", "Multi-device"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Razer Prime Mouse",
+    "brand": "Razer",
+    "category": "Mice",
+    "price": 4499,
+    "description": "Gaming mouse with accurate sensor and lightweight design.",
+    "features": ["High DPI", "RGB", "Lightweight"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "HP Studio Mouse",
+    "brand": "HP",
+    "category": "Mice",
+    "price": 1799,
+    "description": "Slim wireless mouse for everyday work.",
+    "features": ["Wireless", "Silent clicks", "Compact"],
+    "rating": 4.4,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Dell Air Mouse",
+    "brand": "Dell",
+    "category": "Mice",
+    "price": 1999,
+    "description": "Compact wireless mouse for laptops and desktops.",
+    "features": ["Wireless", "Compact", "Adjustable DPI"],
+    "rating": 4.3,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Logitech Max Mouse",
+    "brand": "Logitech",
+    "category": "Mice",
+    "price": 7999,
+    "description": "Advanced ergonomic mouse designed for professionals.",
+    "features": ["Wireless", "High DPI", "Multi-device"],
+    "rating": 4.9,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Razer Flex Mouse",
+    "brand": "Razer",
+    "category": "Mice",
+    "price": 3499,
+    "description": "Lightweight gaming mouse with responsive controls.",
+    "features": ["High DPI", "RGB", "Low latency"],
+    "rating": 4.6,
+    "image": "/products/product-2.jpg"
+  },
+
+  {
+    "name": "Canon Pro Camera",
+    "brand": "Canon",
+    "category": "Cameras",
+    "price": 79999,
+    "description": "Versatile camera for photography and high-quality video.",
+    "features": ["4K video", "Image stabilization", "Wi-Fi"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Nikon Plus Camera",
+    "brand": "Nikon",
+    "category": "Cameras",
+    "price": 89999,
+    "description": "Advanced camera with excellent image quality and reliable autofocus.",
+    "features": ["4K video", "Autofocus", "Wi-Fi"],
+    "rating": 4.7,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Sony Max Camera",
+    "brand": "Sony",
+    "category": "Cameras",
+    "price": 119999,
+    "description": "Premium mirrorless camera for photography and video creators.",
+    "features": ["4K video", "Fast autofocus", "Image stabilization"],
+    "rating": 4.9,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Fujifilm Ultra Camera",
+    "brand": "Fujifilm",
+    "category": "Cameras",
+    "price": 99999,
+    "description": "Stylish camera with excellent colors and creative shooting modes.",
+    "features": ["4K video", "Film simulations", "Wi-Fi"],
+    "rating": 4.8,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Canon Elite Camera",
+    "brand": "Canon",
+    "category": "Cameras",
+    "price": 64999,
+    "description": "Reliable camera for enthusiasts and content creators.",
+    "features": ["4K video", "Autofocus", "Wi-Fi"],
+    "rating": 4.6,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Nikon Prime Camera",
+    "brand": "Nikon",
+    "category": "Cameras",
+    "price": 74999,
+    "description": "Powerful camera designed for detailed photography.",
+    "features": ["4K video", "High resolution", "Bluetooth"],
+    "rating": 4.7,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Sony Studio Camera",
+    "brand": "Sony",
+    "category": "Cameras",
+    "price": 139999,
+    "description": "Professional camera designed for creators and filmmakers.",
+    "features": ["4K video", "Advanced autofocus", "Image stabilization"],
+    "rating": 4.9,
+    "image": "/products/product-3.jpg"
+  },
+  {
+    "name": "Fujifilm Air Camera",
+    "brand": "Fujifilm",
+    "category": "Cameras",
+    "price": 69999,
+    "description": "Compact camera with excellent image quality and portability.",
+    "features": ["4K video", "Wi-Fi", "Compact design"],
+    "rating": 4.6,
+    "image": "/products/product-1.jpg"
+  },
+  {
+    "name": "Canon Max Camera",
+    "brand": "Canon",
+    "category": "Cameras",
+    "price": 109999,
+    "description": "High-performance camera for advanced photography and video.",
+    "features": ["4K video", "Image stabilization", "Dual pixel autofocus"],
+    "rating": 4.8,
+    "image": "/products/product-2.jpg"
+  },
+  {
+    "name": "Nikon Flex Camera",
+    "brand": "Nikon",
+    "category": "Cameras",
+    "price": 84999,
+    "description": "Flexible camera system for travel and everyday photography.",
+    "features": ["4K video", "Wi-Fi", "Fast autofocus"],
+    "rating": 4.7,
+    "image": "/products/product-3.jpg"
+  }
+]
